@@ -4,4 +4,3 @@
 
 ## Homework 0 (March 25 )
 - [Here](https://github.com/BU-IE-360/Bugra-Taksuk-Progress-Journal/blob/master/files/Homework0.ipynb) the forecasting projects I found interesting and might be enlighting for everyone. 
-
