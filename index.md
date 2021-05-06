@@ -9,4 +9,4 @@
 - [Here](Homework1 (1).html) the data visualizations I made to find out similar trends with the data provided by www.https://evds2.tcmb.gov.tr/. I chose CPI data, Full Gold Coin prices and USD(buying) prices in the three year period on a monthly basis and then did some visualizations more with the http://trends.google.com/ data to support the material on the first part. 
 
 ## Homework 2 (May 06 )
-- [Here](Homework_2.html) is the forecasting project that  I did with the "Newly Established Firms" data provided by the www.https://evds2.tcmb.gov.tr. I first manipulated the data and did some visualization to find out correalation within my data set. I managed to fit a good linear model using trend component and lags as regressors. 
+- [Here](files/Homework_2/Homework_2 .html) is the forecasting project that  I did with the "Newly Established Firms" data provided by the www.https://evds2.tcmb.gov.tr. I first manipulated the data and did some visualization to find out correalation within my data set. I managed to fit a good linear model using trend component and lags as regressors. 
