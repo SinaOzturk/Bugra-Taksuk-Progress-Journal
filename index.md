@@ -10,3 +10,6 @@
 
 ## Homework 2 (May 06 )
 - [Here](files/Homework_2/Homework_2 .html) is the forecasting project that  I did with the "Newly Established Firms" data provided by the www.https://evds2.tcmb.gov.tr. I first manipulated the data and did some visualization to find out correalation within my data set. I managed to fit a good linear model using trend component and lags as regressors. 
+
+## Homework 3 (June 06)
+-[In this homework](Homework3.html) , we are asked to investigate the seasonality, decompose the series based on our seasonality and trend findings and lastly prepare ARIMA models comparing the performance of each other. The data is provided by  https://seffaflik.epias.com.tr/transparency/ and the scope of the data is from 1st of January, 2016 till the 20th of May, 2021.
